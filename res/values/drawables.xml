@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="facebook_back" type="drawable">@drawable/facebook_back_en</item>
+    <item name="buy_back" type="drawable">@drawable/buy_back_en</item>
+    <item name="purchased" type="drawable">@drawable/en_purchased</item>
+</resources>

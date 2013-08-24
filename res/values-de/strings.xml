@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Everybody</string>
+
+    <string name="post_share">Ich hab die geilste App, die jeder haben soll.</string>
+    
+    <string name="share_with_icon">So cool bin ich!</string>
+    
+    <string name="share">So cool bin ich - zeig es auf Facebook!</string>
+    <string name="purchase">Werde Pro-Member und sei noch cooler!</string>
+    <string name="purchase_success">Ich bin ein cooler Pro-Member</string>
+
+</resources>

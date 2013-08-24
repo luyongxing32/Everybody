@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Everybody</string>
+
+    <string name="post_share">I have the app, everybody should have.</string>
+    
+    <string name="share_with_icon">So cool i am!</string>
+    
+    <string name="share">So awesome i am - show it on Facebook!</string>
+    <string name="purchase">Become a pro-member and be awesome!</string>
+    <string name="purchase_success">Now, i am a awesome pro-member</string>
+
+</resources>
